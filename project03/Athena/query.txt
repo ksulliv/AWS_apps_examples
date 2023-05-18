@@ -1,0 +1,1 @@
+SELECT high, low, volatility, ts, name FROM "project3"."kinesis_datastream_bucket";
